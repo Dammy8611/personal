@@ -20,6 +20,7 @@ export default {
         card: {
           DEFAULT: "var(--card)",
           foreground: "var(--card-foreground)",
+          border: "var(--border)",
         },
         popover: {
           DEFAULT: "var(--popover)",
