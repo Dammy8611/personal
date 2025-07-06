@@ -1,3 +1,4 @@
+"use client";
 // import { useParams, Link } from "wouter";
 import { motion } from "framer-motion";
 import Navbar from "@/components/navbar";
