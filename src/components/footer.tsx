@@ -75,13 +75,14 @@ export default function Footer() {
             <ul className="space-y-2 text-gray-400">
               {quickLinks.map((link) => (
                 <li key={link.href}>
-                  <Link href={link.href}>
-                    <motion.a
-                      whileHover={{ x: 5 }}
-                      className="hover:text-white transition-colors cursor-pointer"
-                    >
+                  <Link
+                    href={link.href}
+                    className="hover:text-white transition-colors cursor-pointer"
+                    passHref
+                  >
+                    <motion.span whileHover={{ x: 5 }}>
                       {link.label}
-                    </motion.a>
+                    </motion.span>
                   </Link>
                 </li>
               ))}

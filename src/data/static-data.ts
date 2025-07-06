@@ -12,7 +12,7 @@ export const staticProjects = [
       "PostgreSQL",
       "Tailwind CSS",
     ],
-    image: "/api/placeholder/400/300",
+    image: "https://placehold.co/400x300/png",
     githubUrl: "https://github.com/dtechy/ecommerce-dashboard",
     liveUrl: "https://ecommerce-dashboard.demo.com",
     featured: true,
@@ -24,7 +24,7 @@ export const staticProjects = [
     description:
       "A collaborative task management application with real-time updates and team collaboration features.",
     technologies: ["Next.js", "MongoDB", "Socket.io", "Tailwind CSS"],
-    image: "/api/placeholder/400/300",
+    image: "https://placehold.co/400x300/png",
     githubUrl: "https://github.com/dtechy/task-manager",
     liveUrl: "https://task-manager.demo.com",
     featured: true,
@@ -36,7 +36,7 @@ export const staticProjects = [
     description:
       "A beautiful weather application with location-based forecasts and interactive maps.",
     technologies: ["React", "OpenWeather API", "Leaflet", "CSS3"],
-    image: "/api/placeholder/400/300",
+    image: "https://placehold.co/400x300/png",
     githubUrl: "https://github.com/dtechy/weather-app",
     liveUrl: "https://weather-app.demo.com",
     featured: false,
@@ -48,7 +48,7 @@ export const staticProjects = [
     description:
       "A modern portfolio website showcasing projects and skills with smooth animations.",
     technologies: ["React", "Framer Motion", "Tailwind CSS", "TypeScript"],
-    image: "/api/placeholder/400/300",
+    image: "https://placehold.co/400x300/png",
     githubUrl: "https://github.com/dtechy/portfolio",
     liveUrl: "https://dtechy.dev",
     featured: true,
@@ -60,7 +60,7 @@ export const staticProjects = [
     description:
       "A full-featured blog platform with markdown support and comment system.",
     technologies: ["Next.js", "MDX", "Prisma", "PostgreSQL"],
-    image: "/api/placeholder/400/300",
+    image: "https://placehold.co/400x300/png",
     githubUrl: "https://github.com/dtechy/blog-platform",
     liveUrl: "https://blog.dtechy.dev",
     featured: false,
@@ -72,7 +72,7 @@ export const staticProjects = [
     description:
       "Analytics dashboard for social media performance tracking and insights.",
     technologies: ["Vue.js", "Chart.js", "Express.js", "MongoDB"],
-    image: "/api/placeholder/400/300",
+    image: "https://placehold.co/400x300/png",
     githubUrl: "https://github.com/dtechy/social-analytics",
     liveUrl: "https://analytics.demo.com",
     featured: false,
@@ -181,7 +181,7 @@ In this comprehensive guide, we'll explore how to build modern web applications 
     tags: ["React", "TypeScript", "Web Development"],
     status: "published",
     readingTime: 8,
-    image: "/api/placeholder/600/400",
+    image: "https://placehold.co/600x400/png",
   },
   {
     id: 2,
@@ -196,7 +196,7 @@ The frontend development landscape is constantly evolving...`,
     tags: ["Frontend", "Trends", "Technology"],
     status: "published",
     readingTime: 6,
-    image: "/api/placeholder/600/400",
+    image: "https://placehold.co/600x400/png",
   },
   {
     id: 3,
@@ -211,7 +211,7 @@ Performance optimization is crucial for delivering great user experiences...`,
     tags: ["React", "Performance", "Optimization"],
     status: "published",
     readingTime: 10,
-    image: "/api/placeholder/600/400",
+    image: "https://placehold.co/600x400/png",
   },
 ];
 
@@ -224,7 +224,7 @@ export const staticTestimonials = [
     content:
       "Working with Dtechy was an absolute pleasure. The attention to detail and technical expertise exceeded our expectations.",
     rating: 5,
-    image: "/api/placeholder/100/100",
+    image: "https://placehold.co/100x100/png",
     featured: true,
   },
   {
@@ -235,7 +235,7 @@ export const staticTestimonials = [
     content:
       "Dtechy delivered a high-quality solution on time and within budget. Highly recommended for any web development project.",
     rating: 5,
-    image: "/api/placeholder/100/100",
+    image: "https://placehold.co/100x100/png",
     featured: true,
   },
   {
@@ -246,7 +246,7 @@ export const staticTestimonials = [
     content:
       "The collaboration was seamless and the final product perfectly matched our vision. Great communication throughout the project.",
     rating: 5,
-    image: "/api/placeholder/100/100",
+    image: "https://placehold.co/100x100/png",
     featured: false,
   },
 ];
