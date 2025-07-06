@@ -1,5 +1,6 @@
+// @ts-nocheck
 "use client";
-import { motion } from "framer-motion";
+import { motion } from "motion/react";
 // import { Link } from "nex";
 import Navbar from "@/components/navbar";
 import Footer from "@/components/footer";

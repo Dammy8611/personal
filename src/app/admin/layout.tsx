@@ -1,5 +1,6 @@
+"use client";
 import { useState } from "react";
-import { motion } from "framer-motion";
+import { motion } from "motion/react";
 import AdminSidebar from "./sidebar";
 import { Button } from "@/components/ui/button";
 import { useTheme } from "next-themes";

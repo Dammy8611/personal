@@ -1,6 +1,6 @@
-"use client"
+"use client";
 import { useState } from "react";
-import { motion } from "framer-motion";
+import { motion } from "motion/react";
 import Navbar from "@/components/navbar";
 import Footer from "@/components/footer";
 import AnimatedSection from "@/components/animated-section";

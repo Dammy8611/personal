@@ -1,4 +1,5 @@
-import { motion } from "framer-motion";
+"use client";
+import { motion } from "motion/react";
 import {
   LayoutDashboard,
   FolderOpen,
