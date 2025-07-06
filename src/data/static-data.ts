@@ -17,6 +17,8 @@ export const staticProjects = [
     liveUrl: "https://ecommerce-dashboard.demo.com",
     featured: true,
     category: "Web Application",
+    createdAt: new Date().toISOString(), // Add this
+    updatedAt: new Date().toISOString(), // Add this
   },
   {
     id: 2,
@@ -29,6 +31,8 @@ export const staticProjects = [
     liveUrl: "https://task-manager.demo.com",
     featured: true,
     category: "Productivity",
+    createdAt: new Date().toISOString(), // Add this
+    updatedAt: new Date().toISOString(), // Add this
   },
   {
     id: 3,
@@ -41,6 +45,8 @@ export const staticProjects = [
     liveUrl: "https://weather-app.demo.com",
     featured: false,
     category: "Mobile",
+    createdAt: new Date().toISOString(), // Add this
+    updatedAt: new Date().toISOString(), // Add this
   },
   {
     id: 4,
@@ -53,6 +59,8 @@ export const staticProjects = [
     liveUrl: "https://dtechy.dev",
     featured: true,
     category: "Web Application",
+    createdAt: new Date().toISOString(), // Add this
+    updatedAt: new Date().toISOString(), // Add this
   },
   {
     id: 5,
@@ -65,6 +73,8 @@ export const staticProjects = [
     liveUrl: "https://blog.dtechy.dev",
     featured: false,
     category: "Content Management",
+    createdAt: new Date().toISOString(), // Add this
+    updatedAt: new Date().toISOString(), // Add this
   },
   {
     id: 6,
@@ -77,6 +87,8 @@ export const staticProjects = [
     liveUrl: "https://analytics.demo.com",
     featured: false,
     category: "Analytics",
+    createdAt: new Date().toISOString(), // Add this
+    updatedAt: new Date().toISOString(), // Add this
   },
 ];
 
